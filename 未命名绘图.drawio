@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T03:16:37.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="YKuWMzDPPOAPs5nxKViN" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T03:25:36.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="lhWSVcjYURBYlHJ6NxJY" version="14.2.9" type="github">
   <diagram id="GA5bNd9SPiHMp6IKh70w" name="第 1 页">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
           <mxGeometry y="160" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Zqi-vMfeHV1QwQvYg_P-40" value="业务功能模块" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="160" height="100" as="geometry">
+          <mxGeometry x="40" y="230" width="160" height="130" as="geometry">
             <mxRectangle x="90" y="100" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="8Zqi-vMfeHV1QwQvYg_P-45" value="2、人员评价" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1" parent="8Zqi-vMfeHV1QwQvYg_P-40" vertex="1">
           <mxGeometry y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hO07HVu04Z7HC6keW3XI-1" value="3、……" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1" vertex="1" parent="8Zqi-vMfeHV1QwQvYg_P-40">
+          <mxGeometry y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Zqi-vMfeHV1QwQvYg_P-66" value="人员抽取：选择开发项&lt;br&gt;目，再随机抽取N个人员" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="270" y="240" width="160" height="30" as="geometry" />
@@ -70,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Zqi-vMfeHV1QwQvYg_P-72" value="其它要求" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="40" y="350" width="210" height="130" as="geometry">
+          <mxGeometry x="40" y="410" width="210" height="130" as="geometry">
             <mxRectangle x="90" y="100" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
